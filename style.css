@@ -1,0 +1,131 @@
+body {
+  background-color:#272727;
+}
+
+.mt-4 {
+  color: white;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none;
+}
+
+.carousel-control-prev-icon::before,
+.carousel-control-next-icon::before {
+  content: '‹';
+  color: black;
+  font-size: 4em;
+}
+
+.carousel-control-next-icon::before {
+  content: '›';
+}
+
+#denuncia-btn{
+  background-color: #0d6efd;
+}
+#denuncia-btn:hover{
+  background-color: rgb(39, 39, 39);
+  color: #0d6efd;
+}
+
+#noticia-btn{
+  background-color: white;
+}
+
+#noticia-btn:hover{
+  background-color: rgb(39, 39, 39);
+  color:white;
+}
+
+#enviar-denuncia{
+  background-color: #0d6efd;
+  color: white;
+}
+
+#enviar-denuncia:hover{
+  background-color: white;
+  color: #0d6efd;
+}
+
+#limpar{
+  background-color: black;
+  color: white;
+}
+
+#limpar:hover{
+  background-color: white;
+  color: black;
+}
+
+footer {
+  color: #ffffff;
+}
+
+.btn-primary {
+  background-color: #000000;
+  border-color: #0d6efd;
+}
+
+li.guia::before {
+  content: "-";
+  margin-right: 5px;
+}
+
+.white-hover:hover {
+  color: #d63737;
+}
+
+div.news {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+}
+
+div.news::after {
+  content: "";
+  background: url('img/background-news.jpg');
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.sobremim-contato {
+  color: #bdd8ff;
+  text-decoration: none;
+}
+
+.sobremim-contato:hover {
+  color: wheat;
+}
+
+.footer-contato {
+  text-decoration: none;
+}
+
+.aqui {
+  text-decoration: none;
+  color: #bdd8ff;
+}
+
+.aqui:hover {
+  color: wheat;
+}
+
+.experiencias {
+  text-decoration: none;
+  color: #bdd8ff;
+}
+
+.experiencias:hover {
+  color: wheat;
+}
+
