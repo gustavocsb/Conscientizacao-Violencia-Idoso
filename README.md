@@ -11,4 +11,4 @@ O projeto consiste em três telas inicias:
 Tecnologias utilizadas durante o projeto:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap)](https://skillicons.dev)
 <br><br>
-Link do projeto: <a href="https://diadoidoso.netlify.app/index.html" target="_blank">Dia Mundial da Conscientização sobre a Violência contra a Pessoa Idosa</a>
+Link do projeto: <a href="https://diadoidoso.netlify.app/index.html">Dia Mundial da Conscientização sobre a Violência contra a Pessoa Idosa</a>
